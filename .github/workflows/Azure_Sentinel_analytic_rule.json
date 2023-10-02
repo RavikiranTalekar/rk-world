@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2022-11-01-preview",
             "properties": {
-                "displayName": "rk-samplefule",
+                "displayName": "rk-samplefull",
                 "description": "Sample rule to demonstrate custom analytic rule and git export.",
                 "severity": "Medium",
                 "enabled": true,
